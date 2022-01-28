@@ -1,0 +1,25 @@
+.button {
+    background-color: black;
+    border: none;
+    color: black;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: large;
+    margin: 16px 540px;
+    cursor: pointer;
+    
+}
+
+.stopwatch{
+    width: 800px;
+    font-size: 40px;
+    margin: 100px auto;
+    color:black;
+    text-align:center;
+}
+#seconds, #tens{
+        font-size:2em;
+}
+
